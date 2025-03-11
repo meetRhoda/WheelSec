@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889288515008",
+    "project_id": "wheelsec-cd574",
+    "storage_bucket": "wheelsec-cd574.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889288515008:android:a34e89ee5067dd2565fc25",
+        "android_client_info": {
+          "package_name": "com.wheelsec.wheelsec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpm99GcZgIoILUi3p43wSBdwY-WzqA-GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
